@@ -1,4 +1,4 @@
-﻿#  Desafio: Factory method
+﻿#  Desafio: Padrão Builder com Factory method
 
 * Você precisa facilitar a criação de uma nota fiscal, que contém um número, uma data de emissão e itens de produtos.
 A data de emissão deve ser do tipo java.util.Date, porém você irá facilitar a criação desse objeto, aceitando no seu 
